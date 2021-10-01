@@ -1,23 +1,27 @@
 import React from 'react'
+import Images from '../Images/firstone.png'
 
-export default function TempOne() {
+export default function TempOne(props) {
+    
+
     return (
         <>
-            <div className="row justify-content-around">
-                <div className="col-md-6 col-sm-12 container">
-                    <div className="">
-                        <div className="">
-                            <h2 className="card-title"  style={{color:"#061b33" }}  >Meet the Slack-First Customer 360</h2>
-                            <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga in nam quisquam delectus amet, enim, velit porro, error eos sunt est corporis possimus qui beatae sapiente voluptates? Eos, optio quo. <a href="/" className="btn btn-success m-3">See how &gt;</a>
-</p>
-                            <a href="/" className="btn btn-success m-3">START MY FREE TRAIL</a>
-                            <a href="/" className="btn btn-primary">WATCH DEMOS</a>
-                        </div>
-                        </div>
-                    
+            <div className="columns">
+                
+                <div className="column  container">
+                    <h1>Get back to growth with the world’s #1 CRM, powered by Customer 360.</h1>
+                    <p>BPCL uses Salesforce Customer 360 to deliver seamless customer experiences across six business units and multiple touchpoints. <a href=""> See how &gt;</a> </p>
+                  
+
+                <button className="button is-info is-hovered mgr-10">START MY FREE TRIAL</button>
+                <button className="button is-success is-hovered">WATCH DEMOS</button>
+
+
                 </div>
-                <div className="col-md-6 col-sm-12">
-                Image
+                <div className="column mgt-small">
+                   
+
+                    <img src={Images} alt="" srcset="" />
                 </div>
             </div>
             
