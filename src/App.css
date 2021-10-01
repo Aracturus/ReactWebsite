@@ -17,9 +17,8 @@ h1{
   font-weight: bold;
 
 }
-button{
-  margin: 1.2rem;
-}
+
+
 p{
   margin: 5px;
   font-size: 1.2rem;
@@ -35,7 +34,6 @@ h2{
 }
 .imgMargin{
   text-align: center;
-  margin-left: 25%;
 }
 h4{
   color: #1b1c4d;
@@ -43,6 +41,8 @@ h4{
   padding: 3px;
   font-weight: bold;
 }
-.mgt-small{
-  margin-top: 10px;
+
+
+.column{
+  text-align: center;
 }

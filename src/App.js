@@ -4,6 +4,7 @@ import TempOne from './Components/TempOne';
 import TempThree from './Components/TempThree';
 import TempTwo from './Components/TempTwo';
 import TempFour from './Components/TempFour'
+import TempFive from './Components/TempFive';
 
 function App() {
   let Image = {
@@ -19,6 +20,7 @@ function App() {
     <TempTwo Image={Image}/>
     <TempThree/>
     <TempFour/>
+    <TempFive/>
     </>
   );
 }

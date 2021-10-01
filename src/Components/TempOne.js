@@ -13,8 +13,8 @@ export default function TempOne(props) {
                     <p>BPCL uses Salesforce Customer 360 to deliver seamless customer experiences across six business units and multiple touchpoints. <a href=""> See how &gt;</a> </p>
                   
 
-                <button className="button is-info is-hovered mgr-10">START MY FREE TRIAL</button>
-                <button className="button is-success is-hovered">WATCH DEMOS</button>
+                <button className="button is-info is-hovered" style={{margin:'10px'}}>START MY FREE TRIAL</button>
+                <button className="button is-success is-hovered" style={{margin:'10px'}}>WATCH DEMOS</button>
 
 
                 </div>

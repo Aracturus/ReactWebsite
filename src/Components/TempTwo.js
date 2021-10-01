@@ -24,14 +24,16 @@ export default function TempTwo() {
                                     <div className="card-content">
                                         <div className="media">                                       
                                             <div className="media-content">
-                                                <p className="title is-4">John Smith</p>
+                                                <p className="title is-4">What is CRM ?</p>
                                             </div>
                                         </div>
 
-                                        <div className="content">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                        Phasellus nec iaculis mauris. 
+                                        <div className="content"><p>
+                                        CRM stands for Customer Relationship Management.   
+                                        </p>
+                                      
                                         </div>
+                                        <h4>LEARN MORE &gt;</h4>
                                     </div>
                                 </div>
                         </div>
@@ -46,14 +48,16 @@ export default function TempTwo() {
                                     <div className="card-content">
                                         <div className="media">                                       
                                             <div className="media-content">
-                                                <p className="title is-4">John Smith</p>
+                                                <p className="title is-4">Grow your small business</p>
                                             </div>
                                         </div>
 
                                         <div className="content">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                        Phasellus nec iaculis mauris. 
+                                        <p>
+                                        Find,win,and keep more customers using the small busuness plateform that grows with you.
+                                        </p>
                                         </div>
+                                        <h4>LEARN MORE &gt;</h4>
                                     </div>
                                 </div>
                         
@@ -70,17 +74,19 @@ export default function TempTwo() {
                                     <div className="card-content">
                                         <div className="media">                                       
                                             <div className="media-content">
-                                                <p className="title is-4">John Smith</p>
+                                                <p className="title is-4">What is Salesforce?</p>
                                             </div>
                                         </div>
 
                                         <div className="content">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                        Phasellus nec iaculis mauris. 
+                                            <p>
+                                                The #1 CRM can unite aa your teams and drive growth.
+
+                                            </p> 
                                         </div>
+                                        <h4>SEE HOW &gt;</h4>
                                     </div>
                                 </div>
-
                         
                         </div>
                     </div>
