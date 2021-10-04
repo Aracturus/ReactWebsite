@@ -47,15 +47,15 @@ h4{
   text-align: center;
 }
 
-@media screen and (min-width:600px ){
-  .twobytwo{
-    width: 30vw;
-    display: inline-block;
-  }
-}
-@media screen and (min-width:460px ){
+
+@media screen and (max-width:600px ){
   .twobytwo{
     width: 50vw;
     display: inline-block;
+  }
+
+  h1{
+  font-size: 2.2rem;    
+
   }
 }
