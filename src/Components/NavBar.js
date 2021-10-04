@@ -40,11 +40,10 @@ export default function NavBar() {
 
                 <div className="navbar-end">
                     <div className="buttons">
-                    <a className="button is-primary">
+                    <span className="button is-primary">
                         <strong>TRY FOR FREE</strong>
-                    </a>
-                </div>
-                {/* </div> */}
+                    </span>
+                    </div>
                 </div>
             </div>
         </nav>
