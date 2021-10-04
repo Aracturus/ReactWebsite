@@ -1,6 +1,7 @@
 import React from 'react'
 import dreamlogo from '../Images/dreamlogo.png'
 
+
 export default function NavBar() {
     return (
         <>
@@ -9,7 +10,7 @@ export default function NavBar() {
             <div className="navbar-brand ">
                 
 
-                <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+                <a href="/" role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>
@@ -18,20 +19,20 @@ export default function NavBar() {
 
             <div id="navbarBasicExample" className="navbar-menu">
                 <div className="navbar-start">
-                <a className="navbar-item has-text-link">
+                <a href="/" className="navbar-item has-text-link">
                     Home
                 </a>
 
-                <a className="navbar-item has-text-link">
+                <a href="/" className="navbar-item has-text-link">
                     Resources
                 </a>
-                <a className="navbar-item has-text-link">
+                <a href="/" className="navbar-item has-text-link">
                     Support
                 </a>
-                <a className="navbar-item has-text-link">
+                <a href="/" className="navbar-item has-text-link">
                     Company
                 </a>
-                <a className="navbar-item has-text-link">
+                <a href="/" className="navbar-item has-text-link">
                 COVID-19
                 </a>
 

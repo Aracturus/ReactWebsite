@@ -17,7 +17,7 @@ export default function TempThree() {
                         {/* one of four */}
                         
                         <div className="column  container">
-                        <img className="imgMargin" src={cs1} alt="Marketing image"/>
+                        <img className="imgMargin" src={cs1} alt="Marketing"/>
                         <h2>Shetal Kothari</h2>
                         <p>Vice-President, Digital Marketing <br/>IDFC Asset Management Companr Limited </p>
                         <button className="button is-primary is-outlined">SEE THE STROY</button>
@@ -25,7 +25,7 @@ export default function TempThree() {
                                 
                         </div>
                         {/* two of four */}
-                        <div className="column mgt-small"><img className="imgMargin" src={cs2} alt="Sales image"/>
+                        <div className="column mgt-small"><img className="imgMargin" src={cs2} alt="Sales"/>
                         <h2>Rajiv Shah</h2>
                         <p>Chief Executive officer,<br/>NGA-SCE</p>
                         <button className="button is-primary is-outlined">SEE THE STROY</button>
@@ -33,7 +33,7 @@ export default function TempThree() {
                         </div>
                       {/* three of four */}
 
-                        <div className="column mgt-small"><img className="imgMargin" src={cs3} alt="Commerce image"/>
+                        <div className="column mgt-small"><img className="imgMargin" src={cs3} alt="Commerce"/>
                         <h2>Ritesh Arora</h2>
                         <p>Chieg Digital Officer,<br/>CEAT Ltd</p>
                         <button className="button is-primary is-outlined">SEE THE STROY</button>
@@ -42,7 +42,7 @@ export default function TempThree() {
                         </div>
                         {/* four of four */}
 
-                        <div className="column mgt-small"><img className="imgMargin" src={cs4} alt="Service image"/>
+                        <div className="column mgt-small"><img className="imgMargin" src={cs4} alt="Service"/>
                         <h2>Sandeep Nayar</h2>
                         <p>Director,Customer Support Operation,GEP</p>
                         <button className="button is-primary is-outlined">SEE THE STROY</button>

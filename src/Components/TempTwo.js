@@ -18,7 +18,7 @@ export default function TempTwo() {
                                 <div className="card">
                                     <div className="card-image">
                                         <figure className="image is-4by3">
-                                        <img src={img1} alt="Placeholder image"/>
+                                        <img src={img1} alt="Placeholder"/>
                                         </figure>
                                     </div>
                                     <div className="card-content">
@@ -42,7 +42,7 @@ export default function TempTwo() {
                                 <div className="card">
                                     <div className="card-image">
                                         <figure className="image is-4by3">
-                                        <img src={img2} alt="Placeholder image"/>
+                                        <img src={img2} alt="Placeholder"/>
                                         </figure>
                                     </div>
                                     <div className="card-content">
@@ -68,7 +68,7 @@ export default function TempTwo() {
                                 <div className="card">
                                     <div className="card-image">
                                         <figure className="image is-4by3">
-                                        <img src={img3} alt="Placeholder image"/>
+                                        <img src={img3} alt="Placeholder"/>
                                         </figure>
                                     </div>
                                     <div className="card-content">

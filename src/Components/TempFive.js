@@ -35,69 +35,69 @@ export default function TempFive() {
 
             <div className="columns is-desktop">
                 <div className="column twobytwo ">
-                    <img src={sales} alt="logo" srcSet="" />
+                    <img src={sales} alt="logo"  />
                     <h4>SALES</h4>
                 </div>
                 <div className="column twobytwo">
-                    <img src={service} alt="logo" srcSet="" />
+                    <img src={service} alt="logo"  />
                     <h4>SERVICE</h4>
                 </div>
                 <div className="column twobytwo">
-                    <img src={marketing} alt="logo" srcSet="" />
+                    <img src={marketing} alt="logo"  />
                     <h4>MARKETING</h4>
                 </div>
                 <div className="column twobytwo">
-                    <img src={commerce} alt="logo" srcSet="" />
+                    <img src={commerce} alt="logo"  />
                     <h4>COMMERCE</h4>
                 </div>
                 <div className="column twobytwo">
-                    <img src={analytics} alt="logo" srcSet="" />
+                    <img src={analytics} alt="logo"  />
                     <h4>ANALYTICS</h4>
                 </div>
                 <div className="column twobytwo">
-                    <img src={integration} alt="logo" srcSet="" />
+                    <img src={integration} alt="logo"  />
                     <h4>INTEGRATION</h4>
                 </div>            
 
             </div>
             <div className="columns is-desktop">
                 <div className="column twobytwo">
-                    <img src={slack} alt="logo" srcSet="" />
+                    <img src={slack} alt="logo"  />
                     <h4>SLACK</h4>
                 </div>
                 <div className="column twobytwo">
-                    <img src={platform} alt="logo" srcSet="" />
+                    <img src={platform} alt="logo"  />
                     <h4>PLATFORM</h4>
                 </div>
                 <div className="column twobytwo">
-                    <img src={industries} alt="logo" srcSet="" />
+                    <img src={industries} alt="logo"  />
                     <h4>INDUSTRIES</h4>
                 </div>
                 <div className="column twobytwo">
-                    <img src={learning} alt="logo" srcSet="" />
+                    <img src={learning} alt="logo"  />
                     <h4>LEARNING</h4>
                 </div>
                 <div className="column twobytwo">
-                    <img src={employees} alt="logo" srcSet="" />
+                    <img src={employees} alt="logo"  />
                     <h4>EMPLOYEES</h4>
                 </div>
                 <div className="column twobytwo">
-                    <img src={partners} alt="logo" srcSet="" />
+                    <img src={partners} alt="logo"  />
                     <h4>PARTNERS</h4>
                 </div>
             </div>
 
             <div className="columns is-desktop">
                 <div className="column twobytwo">
-                    <img src={success} alt="logo" srcSet="" />
+                    <img src={success} alt="logo"  />
                     <h4>SUCCESS</h4>
                 </div>
                 <div className="column twobytwo ">
-                    <img src={einstein} alt="logo" srcSet="" />
+                    <img src={einstein} alt="logo"  />
                     <h4>EINSTEIN AI</h4>
                 </div>
                 <div className="column twobytwo">
-                    <img src={truth} alt="logo" srcSet=""  style={{textAlign:'center'}}/>
+                    <img src={truth} alt="logo"   style={{textAlign:'center'}}/>
                     <h4>TRUTH</h4>
                 </div>          
 
