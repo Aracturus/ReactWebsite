@@ -1,5 +1,5 @@
 import React from 'react'
-import Images from '../Images/firstone.png'
+import firstone from '../Images/firstone.png'
 
 export default function TempOne(props) {
     
@@ -21,7 +21,7 @@ export default function TempOne(props) {
                 <div className="column mgt-small">
                    
 
-                    <img src={Images} alt="" srcset="" />
+                    <img src={firstone} alt="" srcSet="" />
                 </div>
             </div>
             

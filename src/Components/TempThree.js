@@ -17,23 +17,23 @@ export default function TempThree() {
                         {/* one of four */}
                         
                         <div className="column  container">
-                        <img className="imgMargin" src={mar} alt="Marketing image"/>
+                        <img className="imgMargin" src={mar} alt="Marketing"/>
                         <h2>Marketing</h2>
                                 
                         </div>
                         {/* two of four */}
-                        <div className="column mgt-small"><img className="imgMargin" src={sal} alt="Sales image"/>
+                        <div className="column mgt-small"><img className="imgMargin" src={sal} alt="Sales "/>
                         <h2>Sales</h2>
                         </div>
                         {/* three of four */}
 
-                        <div className="column mgt-small"><img className="imgMargin" src={comm} alt="Commerce image"/>
+                        <div className="column mgt-small"><img className="imgMargin" src={comm} alt="Commerce "/>
                         <h2>Commerce</h2>
                         
                         </div>
                         {/* four of four */}
 
-                        <div className="column mgt-small"><img className="imgMargin" src={ser} alt="Service image"/>
+                        <div className="column mgt-small"><img className="imgMargin" src={ser} alt="Service"/>
                         <h2>Service</h2>
                              
                         
